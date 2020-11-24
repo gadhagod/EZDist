@@ -28,9 +28,7 @@ void setup() {
 4. Print data.
 ```    
 void loop() {
-    Serial.println("Inches: " + 
-    String(EZDist.inch()) + ", Centimeters: " + 
-    String(EZDist.cm()));
+    Serial.println("Inches: " + String(EZDist.inch()) + ", Centimeters: " + String(EZDist.cm()));
 }
 ```
 
