@@ -3,6 +3,8 @@ An Arduino library to make usage of the HC-SR04 as easy as blinking an LED.
 <br><br>
 The distance sensor needs several lines of code to perform the simple task of returning the distance of the closest object, but now you can do this in one line! In addition, you can get the distance in centimters or inches.<br>
 
+Tutorial: [here](https://create.arduino.cc/projecthub/GadhaGod/use-the-ultrasonic-distance-sensor-in-one-line-eaa555)
+
 ### Installation
 1. Download as a zip file from [GitHub](https://github.com/gadhagod/EZDist).
 
